@@ -5,3 +5,4 @@
 [selfie test video](https://youtu.be/Zf_-dgLY3Vo)
 
 ### Homework2
+p.32
