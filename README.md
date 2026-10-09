@@ -5,4 +5,6 @@
 [selfie test video](https://youtu.be/Zf_-dgLY3Vo)
 
 ### Homework2
-p.32
+
+### 2-2-2-1
+<img src="homework/2-2-1.png">
