@@ -19,3 +19,6 @@
 ### 입력층 2개, 첫 번째 은닉층 10개, 두 번째 은닉층 10개, 출력층 1개
 <img src="homework/10-10-1.png">
 <a href="homework/SLOC01_HW1_10-10-1.ipynb">Classification_homework 코드</a>
+
+### Homework3 
+ANN p.74 ImageClassification p.25 실행시켜 비교분석하기 
